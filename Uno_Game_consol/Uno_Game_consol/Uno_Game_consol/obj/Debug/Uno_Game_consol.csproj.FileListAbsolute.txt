@@ -1,0 +1,7 @@
+C:\Users\burak\OneDrive\Masaüstü\DERSLER\Projeler\Uno_Game_consol\Uno_Game_consol\bin\Debug\Uno_Game_consol.exe.config
+C:\Users\burak\OneDrive\Masaüstü\DERSLER\Projeler\Uno_Game_consol\Uno_Game_consol\bin\Debug\Uno_Game_consol.exe
+C:\Users\burak\OneDrive\Masaüstü\DERSLER\Projeler\Uno_Game_consol\Uno_Game_consol\bin\Debug\Uno_Game_consol.pdb
+C:\Users\burak\OneDrive\Masaüstü\DERSLER\Projeler\Uno_Game_consol\Uno_Game_consol\obj\Debug\Uno_Game_consol.csprojAssemblyReference.cache
+C:\Users\burak\OneDrive\Masaüstü\DERSLER\Projeler\Uno_Game_consol\Uno_Game_consol\obj\Debug\Uno_Game_consol.csproj.CoreCompileInputs.cache
+C:\Users\burak\OneDrive\Masaüstü\DERSLER\Projeler\Uno_Game_consol\Uno_Game_consol\obj\Debug\Uno_Game_consol.exe
+C:\Users\burak\OneDrive\Masaüstü\DERSLER\Projeler\Uno_Game_consol\Uno_Game_consol\obj\Debug\Uno_Game_consol.pdb
