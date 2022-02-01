@@ -1,27 +1,29 @@
 import java.util.Scanner;
 
-public class Main
-{
-    public static void main(String[] args)
-    {
-
-        Scanner input = new Scanner(System.in);
-        System.out.println("Lutfen Bir Sayı Giriniz ");
-        int Number=input.nextInt();
-        int j;
-
-        for(int i = 1; i<=Number;i++)
-        {
-            for(int k=1;k<=(Number-i);k++)
-                {
+public class Yildizlar {
+    public static void main(String[] args) {
+        try (Scanner scanner = new Scanner(System.in)) {
+            System.out.print("Bir sayı giriniz : ");
+            int n = scanner.nextInt();
+            int i,j,k;
+            for(i=1; i<=n; i++){
+                for(j=1; j<=(n-i); j++){
                     System.out.print(" ");
                 }
-            for (j = 1; j<=(2*i-1);)
-                {
-                System.out.print("*");
-                j++;
+                for(k=1; k<=(2*i)-1;k++){
+                    System.out.print("*");
                 }
-            System.out.println(" ");
+                System.out.println();
+            }
+            for (i = (n-1); i>=0; i--) {
+                for (j=1; j<=(n-i); j++) {
+                    System.out.print(" ");
+                }
+                for (k=1; k<=(2*i)-1; k++) {
+                    System.out.print("*");
+                }
+                System.out.println();
+            }
         }
     }
 }
